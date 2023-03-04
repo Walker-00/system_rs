@@ -1,0 +1,8 @@
+[workspace]
+members = ["part01"]
+
+[profile.dev]
+panic = "abort"
+
+[profile.release]
+panic = "abort"
