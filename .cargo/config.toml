@@ -1,2 +1,2 @@
 [build]
-target = "thumbv7em-none-eabihf"
+target = "x86_64-unknown-none"
