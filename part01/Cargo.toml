@@ -7,4 +7,5 @@ edition = "2021"
 
 
 [dependencies]
+bootloader = "0.9.23"
 panic-halt = "0.2.0"
